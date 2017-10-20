@@ -1,0 +1,38 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.container.content-slider p {
+	text-align: center;
+}
+.container.content-slider p img {
+	margin: 0%;
+	text-align: center;
+	padding: 5px;
+	width: 250px;
+	height: 200px;
+}
+.container.content-slider p iframe {
+	margin: 0%;
+	text-align: center;
+	padding: 5px;
+	width: 250px;
+	height: 200px;
+}
+#BOT {
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+	clear: both;
+}
+.d1 #icin_float {
+	float: right;
+	margin: 0px;
+	padding: 0px;
+}
+.d1 #se_icon {
+	display: inline;
+	text-align: center;
+	font-size: 12px;
+	padding: 2.5px;
+	margin: 2.5px;
+}
